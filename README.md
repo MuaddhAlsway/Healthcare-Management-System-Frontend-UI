@@ -97,6 +97,8 @@ Appointment scheduling interface.
 ## 🤝 Contributing
 
 Contributions are welcome! Please:
+## 🔗 Link Post :
 
-
-
+  <a href="https://www.linkedin.com/posts/muaddh-alsway_healthcareit-reactjs-frontenddevelopment-activity-7359930755919044608-gjP7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
